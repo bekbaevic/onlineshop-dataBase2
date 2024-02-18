@@ -1,0 +1,474 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "title": "Smartphones",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/08/smartphone-composite1-getty-images-Neil-Godwin.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Laptops",
+      "image": "https://i.pinimg.com/originals/c7/8b/d1/c78bd1ec521188e9f2d2cc7a16cd1b31.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Books",
+      "image": "https://media.gq.com/photos/5ad64204c8be07604e8b5f2f/4:3/w_1776,h_1332,c_limit/21-books-GQ-April-2018-041718-3x2.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Clothes",
+      "image": "https://t3.ftcdn.net/jpg/01/38/94/62/360_F_138946263_EtW7xPuHRJSfyl4rU2WeWmApJFYM0B84.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Watches",
+      "image": "https://media.gq-magazine.co.uk/photos/6554b12624751a06c3102c5d/16:9/w_1280,c_limit/Ultimate-Watch-Wish-List-hp.jpeg"
+    },
+    {
+      "id": "6",
+      "title": "Headphones",
+      "image": "https://www.popsci.com/uploads/2023/09/20/The-best-cheap-Bluetooth-headphones.jpg?auto=webp"
+    },
+    {
+      "id": "7",
+      "title": "Washing machine",
+      "image": "https://hnsgsfp.imgix.net/9/images/detailed/55/Bosch_Serie_8_10KG_1600rpm_Front_Load_Washing_Machine_(IMG_1).jpg?fit=fill&bg=0FFF&w=1536&h=900&auto=format,compress"
+    },
+    {
+      "id": "8",
+      "title": "Toys",
+      "image": "https://cdn.firstcry.com/education/2022/11/06094158/Toy-Names-For-Kids.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Printers",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2021/8/TP/CV/PF/5425886/epson-l805-color-printer-500x500.jpg"
+    },
+    {
+      "id": "10",
+      "title": "TV",
+      "image": "https://ffalcon.com.au/wp-content/uploads/RU62_50_55_65_angle_left.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": "24",
+      "title": "Televizor SSMART 32 Android 12 AOSP",
+      "price": 1799000,
+      "image": "https://images.uzum.uz/cm6p6pbifoubkc6mgi80/original.jpg",
+      "description": "Operatsion tizim Android 12.0 ga yangilandi. LED Smart TV yordamida sevimli dastur va filmlaringizni Full HD piksellar sonida tomosha qilishdan rohatlaning. Yupqa ramkalar, keng ko‘rish burchaklari va  HD 1366x768  o‘lchamlari bilan LG matritsasi asosidagi 32 dyuymli ekran eng aniq, yorqin va boy tasvirni taqdim etadi. O‘rnatilgan raqamli tyunerlar raqamli va kabelli eshittirish signallarini barqaror qabul qilish imkonini beradi va zamonaviy Android 12.0 operatsion tizimiga asoslangan SMART TV funksiyasi yordamida siz translyatsiya dasturidan mustaqil bo‘lib, filmlar, seriallar va teleko‘rsatuvlarni tomosha qilishingiz mumkin. ko'ngilochar ko'rsatuvlar istalgan qulay vaqtda Internet. Smart TV Smart Pro - bu keng funksiyalarga ega haqiqiy media markaz: teleko'rsatuvlarni tomosha qilish, Internetga kirish, smartfon ekranini ko'paytirish, tashqi mediadan media fayllarni o'ynatish. Smart Pro TV-ni turli qurilmalarga ulash, shuningdek, tashqi muhitdan videoni o'ynash uchun USB va HDMI ulagichlari, Internetga ulanish uchun esa - Wi-Fi va LAN mavjud. Operativ xotira - 1 GB, ichki xotira - 8 GB.",
+      "categoryId": "10",
+      "reviews": [
+        {
+          "id": "1",
+          "user": "Sabina",
+          "review": "Assalomu alaykum TV ga gap yòq sifati zòr ekan uzum market eng zòri faqat kafolat taloni berilmagan qanday olsam bòladi"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "title": "iPhone 14 Pro Max",
+      "price": 21290000,
+      "image": "https://www-konga-com-res.cloudinary.com/w_400,f_auto,fl_lossy,dpr_3.0,q_auto/media/catalog/product/S/E/67343_1663482037.jpg",
+      "description": "iPhone 14 Pro Max — zanglamaydigan po'latdan va Ceramic Shield zarbaga qarshi oynadan yasalgan oltinrangli korpusli smartfon, 256 Gb ichki xotiraga ega. IP68 suv va changdan himoya qilish klassi tufayli qurilma 6 m chuqurlikka botganda zarar ko'rmaydi. 6,7 dyumli super Retina xdr Pro Motion tipidagi ekran OLED texnologiyasidan foydalangan holda ishlab chiqarilgan.",
+      "categoryId": "1",
+      "reviews": [
+        {
+          "id": "1",
+          "user": "Aelron",
+          "review": "Umuman olganda, telefon juda zo'r. Narxi ha, juda qimmat. 120-130K uchun 512GB variant ideal bo'lar edi, lekin bizda bor narsa bor. Men Samsung Galaxy S23 Ultra va Xiaomi 13 Ultra-ni sinab ko'rdim va ularning barchasi ba'zi jihatlarda yutqazdi. Shunga qaramay, men buni majburlamayman, bu mening shaxsiy fikrim."
+        },
+        {
+          "id": "2",
+          "user": "Alex",
+          "review": "iPhone 14 Pro Max va men bu ta'sirli telefon, deyishdan boshqa ilojim yo'q. Apple har bir yangi nashri bilan barni oshirishda davom etmoqda va iPhone 14 Pro Max ularning qanchalik uzoqqa erishganiga misoldir. Avvalo, ushbu qurilmaning dizayni shunchaki hayratlanarli. Yuqori sifatli materialdan tayyorlangan zamonaviy va oqlangan tanasi unga yuqori darajadagi ko'rinish beradi. Qurilish sifati benuqson va hamma narsa juda mustahkam va ishonchli."
+        },
+        {
+          "id": "3",
+          "user": "Danil",
+          "review": "O'n har doim juda kichik bo'lib tuyulardi, ayniqsa 7 plyusdan keyin, 14 pro max da hamma narsa yaxshi, endi siz tugmachalarni odatdagidek bosishingiz mumkin. Pro max-ni oling, chunki portlashlar katta ekranda ko'p joy egallamaydi va 14 pro ga qaraganda yaxshiroq ko'rinadi + maksimal batareyaning ishlash muddati uzoqroq va orqadagi kamera bloki ham mutanosibroq ko'rinadi, 14 pro-da u o'lchamdagi korpuslarga nisbatan ulkan ko'rinadi. Taxminan bir kun ichida siz maksimal o'lchamlarga o'rganasiz."
+        },
+        {
+          "id": "4",
+          "user": "Kirill Carev",
+          "review": "Yaxshi iPhone, juda yomon, bu juda ko'p pul talab qiladi. Yana nima deyishim mumkin, xarid qilish aralash tuyg'ularni uyg'otadi... Bu oddiy smartfon, undan foydalanishdan katta zavq olasiz, lekin narx yorlig'i, albatta, dahshatli, qancha turadiganini eslab, darhol qayg'uli bo'ladi va Agar siz Apple marketingiga tushib qolmaganingizda, har doim qancha sotib olishingiz mumkin edi. Men buni hammaga tavsiya qilaman."
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Avtomat kir yuvish masinasi LG F2V3GS3W, 8.5 kg",
+      "price": 6530000,
+      "image": "https://images.uzum.uz/cn5jb1rifoubkc6rmu00/original.jpg",
+      "description": "Yuvish dasturini ishga tushirgandan so‘ng unutilgan narsalarni qo‘shish uchun maxsus “Kir qo‘shish” funksiyasidan foydalaning.LG F2V3GS3W kir yuvish mashinasi kirlarni samarali va qulay yuvish uchun mo‘ljallangan zamonaviy qurilmadir. LG F2V3GS3W 8,5 kg gacha yuk ko'tarish quvvatiga ega baraban sig'imiga ega. Buning yordamida vaqt va energiyani tejab, katta hajmdagi kirlarni bir siklda yuvishingiz mumkin.",
+      "categoryId": "7",
+      "reviews": []
+    },
+    {
+      "id": "11",
+      "title": "Futbolka birtonli, paxtali Asia Mix",
+      "price": 45000,
+      "image": "https://images.uzum.uz/clgdnl56sfhvbd1ispfg/original.jpg",
+      "description": "Oddiy futbolka erkaklar garderobidagi ajralmas asosiy narsadir. Paxta futbolka uyda, plyajga va pikniklarga borganingizda, shuningdek, ko'ylagi va ko'ylagi ostidagi ichki kiyim sifatida kiyiladi. Klassik kesimli zamonaviy sport futbolkasi erkaklarga ham, ayollarga ham mos keladigan uniseks buyumdir. Kundalik futbolka modeli har qanday vaziyatga mos keladi va boshqa narsalar bilan yaxshi ketadi. Qattiq rangli mato rasmiy ko'rinish bilan yaxshi ishlaydi. T-ko'ylak tabiiy paxtadan tayyorlangan bo'lib, u havo o'tkazuvchanligi yuqori, bahor-yoz-kuz mavsumida yuqori sifatli ventilyatsiyani ta'minlaydi. Katta o'lchamli futbolka tanaga 'nafas olish' imkonini beradi, mahsulot namlikni mukammal darajada o'zlashtiradi va havo yaxshi o'tishiga imkon beradi.To'g'ri yoshlar futbolkasining modeli sizga ish, yurish, dam olish, dam olish va dam olish uchun zamonaviy qiyofa yaratishga imkon beradi. yoki tanishish. Qisqa yengli futbolka kundalik kiyim, dengiz qirg'og'ida plyaj ta'tillari va qirg'oq bo'ylab sayr qilish uchun ajoyib kiyim, jismoniy tarbiya uchun maktab formasining o'ziga xos elementi, sport zali uchun chiroyli kiyimlar yoki ko'chada mashq qilish uchun mashq qilish. Bo'shashgan paxta futbolka yugurish va sport mashg'ulotlari, ochiq havoda yoki sport zalida sport va fitnes uchun, ziyofatda, ochiq kafeda, sayohatlar va sayohatlar uchun ideal. T-ko'ylak asosiy va yorqin ranglarda, keng o'lchamdagi, jumladan, katta o'lchamlarda mavjud. Moda futbolka jinsi va shimlar bilan, issiq havoda shortilar bilan, shuningdek, krossovkalar va krossovkalar, engil yozgi etiklar, slip-on va mokasinlar, shpallar va top-siderlar bilan yaxshi mos keladi.",
+      "categoryId": "4",
+      "reviews": [
+        {
+          "id": "1",
+          "user": "Ozodbek",
+          "review": "juda yaxshi Futbolka ekan bayniqsa razmeri zur raxmat"
+        },
+        {
+          "id": "2",
+          "user": "Babamuratova",
+          "review": "Хорошая футболка."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Samsung Galaxy S23 Ultra",
+      "price": 1340000,
+      "image": "https://m.media-amazon.com/images/I/61VfL-aiToL.jpg",
+      "description": "Galaxy S23 Ultra - Sayyoramizni hisobga olgan holda ishlab chiqarilgan va o'rnatilgan s Pen, Nightography kamerasi va qiziqarli o'yinlar uchun kuchli chip bilan jihozlangan. Professional darajadagi kadrlarning xotiraga muxrlash uchun Expert RAW dasturidan foydalanishingiz mumkin. Astrofoto, ko'pgina ekspozitsiya va boshqa xususiyatlarga ega 50 MP kamera bilan ajoyib suratlar olish imkoniga egasiz. Rasmlaringiz va videolaringiz kuning istalgan vaqtida yani quyosh botishidan tonggacha olingan kadrlarni aniq va tiniq olish imkoniyatiga egasiz.",
+      "categoryId": "1",
+      "reviews": [
+        {
+          "id": "1",
+          "user": "Nikita Kuznecov",
+          "review": "Afzalligi: Dinamiklar. Ovoz chuqur, bas yetarli, baland tovushlar quloqqa zarar yetkazmaydi. Bu borada iPhone 14 Pro Max uchun juda raqobatchi. Men ularni boshma-yakka solishtirdim va o'zim uchun eng yaxshi ovozni tanlay olmadim. Bu yaxshi, chunki 14 ta Missesda haqiqatan ham yuqori darajadagi dinamiklar bor va men Ultra nimaga ega bo'lishini qiziqtirgan edim. Ko'pgina tovush kodeklarini qo'llab-quvvatlash, buning natijasida HAR QANDAY naushniklaringizdagi ovoz mukammal sifatga ega bo'ladi. Siz hatto o'zingizning Air Podlaringizni ham ulashingiz mumkin va ovoz iPhone bilan bog'langandan ko'ra yomonroq bo'lmaydi."
+        },
+        {
+          "id": "2",
+          "user": "Igor",
+          "review": "Agar standart kamera ilovasi juda qo'pol bo'lsa, Expert RAW ilovasi zavqdan boshqa hech narsa keltirmaydi - u bilan natija mutlaqo to'g'ri. Agar siz RAW (DNG formati) formatida suratga tushsangiz va uni Lightroom yoki shunga o'xshash biror narsa orqali o'tkazsangiz, ba'zi joylarda u mening yaxshi Nikonimdan ustun keladi. Dinamik diapazon ajoyib! Asosiy kamera RAW ni 50 megapikselli ruxsatda ajoyib ravshanlik bilan ishlab chiqishi mumkin, garchi qorong'uda tafsilotlarni saqlab qolish uchun uni 12 megapikselga o'rnatgan ma'qul."
+        },
+        {
+          "id": "3",
+          "user": "Dmitriy Aliyev",
+          "review": "Men iPhone 12-dan o'tdim, bundan oldin Siemens, Nokia va ko'plab Androidlar - NTS, Samsung, Xiaomi bor edi. Menga unchalik yoqmagan narsadan boshlayman. kamera - uning ijobiy va salbiy tomonlari bor. ha, yaxshi masshtab va odatda yaxshi surat sifati. lekin harakatdagi suratlar butunlay achinarli. doimiy yog'langan. Bu borada iPhone yaxshiroq edi. Optik zoomga kelsak, Samsung bu erda ancha oldinda. Xotinimda 13 pro max bor va u makro suratga olishda ham Samsungdan ustun turadi. Yana bir kamchilik - signalning yo'qolishi. Qabul qilish yomon bo'lsa, ulanishni bir necha soniya yo'qotishingiz mumkin. agar bu vaqtda faol qo'ng'iroq bo'lsa, u uzilib qoladi."
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Kir yuvish mashinasi yarim avtomatik Artel ART-TC60, 6 kg",
+      "price": 1370000,
+      "image": "https://images.uzum.uz/cn5jb1rifoubkc6rmu00/original.jpg",
+      "description": "Kir yuvish mashinasi yarim avtomatik Artel ART-TC-60 bu kiyimlarni yuvish uchun ishonchli va funktsional qurilma. U 6 kg katta tank sig'imi bilan jihozlangan, bu sizga bir tsiklda katta hajmdagi kiyimlarni yuvish imkonini beradi. Mashinada yuvish va aylantirish uchun alohida bo'linmalar mavjud, turli xil yuvish rejimlari va dasturlarini, shu jumladan nozik mato dasturlarini o'z ichiga oladi. Mashina ishonchli va bardoshli dvigatel bilan jihozlangan bo'lib, u uzoq umr va uzluksiz ishlashni ta'minlaydi. Uning ixcham o'lchami va qulay g'ildiraklari uni uy atrofida osongina ko'chirish va kerakli joyga qulay joylashtirish imkonini beradi. shuningdek, u suvni avtomatik ravishda to'kish va suv haroratini sozlash xususiyatiga ega, bu esa undan foydalanishni yanada qulayroq qiladi. Oddiy va intuitiv boshqaruv interfeysi bilan mashina hatto tajribasiz foydalanuvchilar uchun ham sozlanishi va ishlashi oson.",
+      "categoryId": "7",
+      "reviews": [
+        {
+          "id": "1",
+          "user": "Farangiz",
+          "review": "assalom aleykum,kir mashina menga yoqdi,ishlashi zur,dostavka 1 kunda keldi.Faqat kafolat talonini tuldirib bermabsizlarda"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Simsiz quloqchinlari Pods Max Aux, Bluetooth",
+      "price": 229000,
+      "image": "https://images.uzum.uz/cm8kmbps99ouqbfp9gh0/original.jpg",
+      "description": "Eshitish vositalarining asl versiyasiga iloji boricha yaqinroq. Har bir tafsilot eng mayda detallargacha ishlab chiqilgan va asl mahsulot qanday ko'rinishini tushunadigan odamni ham shubha ostiga qo'ymaydi. Quloqchin alyuminiy quloq chashkalari mustaqil ravishda aylanish va bosimni to'g'ri taqsimlash imkonini beruvchi mexanizm bilan jihozlangan.Digital Crown-dan foydalanib, siz ovoz balandligini sozlashingiz, treklarni o'zgartirishingiz, telefon qo'ng'iroqlariga javob berishingiz va Siri-ni faollashtirishingiz mumkin. yumshoq, yupqa Smart korpusda saqlasangiz, batareya quvvatini behuda sarflamaslik uchun darhol ultra past quvvat rejimiga o‘tadi.",
+      "categoryId": "6",
+      "reviews": [
+        {
+          "id": "1",
+          "user": "Abdulaziz",
+          "review": "Yaxshi tez va sifatli maxsulton 👍👍"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Honor X8b 8/128GB",
+      "price": 3990000,
+      "image": "https://assets.asaxiy.uz/product/items/desktop/d787b85d4d827ced1d6f25fdf7ef669a2024010813542627538pG40cD8DCy.png",
+      "description": "Honor X8b smartfoni 90 Gts yangilanish tezligi, 2000 cd/m2 eng yuqori yorqinligi va 3240 chastotali PWM orqa nuri nazorati bilan FHD+ (2412 × 1080 piksel) o‘lchamli 6,7 dyuymli AMOLED displey bilan jihozlangan. Ekran qo‘llab-quvvatlaydi. 16,7 million rang soyasi va DCI-P3 rang maydonining 100 foizini qamrab oladi. Ekranning yuqori qismida oval shaklidagi Magic Capsule kesmasi mavjud, yangi funktsional displey elementida suhbat vaqti, taymer, ovoz yozish moslamasi aks etadi.",
+      "categoryId": "1",
+      "reviews": [
+        {
+          "id": "1",
+          "user": "Dmitriy Evgenevich",
+          "review": "Mening telefonim asosan ish maqsadlarida, qo'ng'iroq qilish, video yoki filmlarni tomosha qilish, navigator, musiqa, o'qish va shunga o'xshash boshqa vazifalar uchun ishlatilganligi sababli, telefon qoniqarliroq. Ekran yaxshi, ranglar aniq, foydalanish paytida hech qanday nosozlik yoki kechikishlarni sezmadim, ko'p odamlar dinamik ovoz balandligidan shikoyat qiladilar, lekin odamlar ovoz balandligi tugmasi kabi narsalarni bilishmaydi. Suhbatdoshni mukammal eshitish mumkin, lekin ko'pchilik yozmagan, go'yo uni karnayga qo'ygandek."
+        },
+        {
+          "id": "2",
+          "user": "Aleksey Aristov",
+          "review": "Sensor va quvvat tugmasi bilan juda munozarali yechim, ba'zida u chayqalib ketganga o'xshaydi, lekin bu unchalik emas, g'ayrioddiy. NFC juda yaxshi ishlaydi, kontaktsiz dasturiy ta'minot bilan eng tezkor javob. Chiroyli ko'rinish, samarali ishlash, biroz hafsalasi pir emas, men hammaga sotib olishni maslahat beraman."
+        },
+        {
+          "id": "3",
+          "user": "Anastasiya Macko",
+          "review": "Ajoyib smartfon. Bundan oldin 8x, 20s bor edi, shuning uchun tanlov darhol Honorga tushdi. Odatdagidan bir oz ko'proq yigirma. Ehtimol, bu lahza meni biroz xafa qilgandir, chunki telefon allaqachon bir qo'l bilan foydalanish uchun noqulay. Balki vaqt o'tishi bilan ko'nikib ketarman)) qolgan hammasi zo'r. Yaxshi kamera, batareya zaryadni ushlab turadi. Hammasi tanish va Google joyida) men hali tushuna olmaydigan yagona narsa - bu mashinada bluetooth-ni ulash."
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "title": "Printer Epson L805, rangli",
+      "price": 4919000,
+      "image": "https://images.uzum.uz/ck8matsvutv5dskq12qg/original.jpg",
+      "description": "Epson L805 rangli fotosuratlarni yuqori sifat bilan mislsiz past tannarxda chop etadi. Foydalanuvchilar printerni kompyuterga ulab qoʻyishlari, yoki smartfon yoki planshetlardan iOS va Android (Epson iPrint ilovasi) boshqaruvi ostida toʻgʻridan˗toʻgʻri chop etishlari mumkin. Bunda siyoh solingan konteynerlar jamlanmasi 1900 fotosuratni chop etish uchun yetadi. Epson bosma fabrikasining oʻziga xosligi – uning kartrijlarsiz chop etishidir. Kartrijlar oʻrniga Epson L805 da maxsus idishlardan foydalaniladi, ulardagi siyoh maxsus naychalar orqali chop etuvchi kalakka kelib tushadi. Bunda idishlarning mislsiz tuzilmaga ega ekanligi hamda bosimni nazorat qilib turish tizimi kartrijlardan foydalanmasdan bosmaning yuqori sifatli boʻlishini va qurilma ishining ishonchliligini kafolatlaydi.",
+      "categoryId": "9",
+      "reviews": [
+        {
+          "id": "1",
+          "user": "Shohruh",
+          "review": "O’ta sifatsiz olmeyla"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Xiaomi Redmi Note 13 Pro",
+      "price": 4750000,
+      "image": "https://assets.asaxiy.uz/product/items/desktop/a86c450b76fb8c371afead6410d5553420240117145846554823R9HQkGben.png",
+      "description": "Xiaomi bugun nafaqat Redmi Note 13, Redmi Note 13 Pro va Redmi Note 13 Pro+ modellarini, balki yanada arzonroq Redmi Note 13 Pro 4G va Redmi Note 13 4G modellarini ham global bozorga chiqardi.",
+      "categoryId": "1",
+      "reviews": [
+        {
+          "id": "1",
+          "user": "Dmitriy Sergeev",
+          "review": "To'g'ridan-to'g'ri Xitoydan buyurtma qilingan, ammo global versiya uchun tikilgan. NFC mavjud va barcha Google xizmatlarini qo'llab-quvvatlaydi. Hamma narsa chaqmoq tezligida ishlaydi. Telefon yangi. Qadoqlash og'ir, hamma narsa zararsiz keldi. Bolaga sovg'a sifatida sotib olingan."
+        },
+        {
+          "id": "2",
+          "user": "Yatiho",
+          "review": "Men uni bir necha oydan beri ishlataman. Men zavod korpusidan mamnun bo'ldim, telefonning o'lchamlari deyarli o'zgarmaydi, ayniqsa kuchli chiqib ketgan kamera fonida."
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "title": "Televizor Volto Led 32-4000 Smart",
+      "price": 1439000,
+      "image": "https://images.uzum.uz/cmog31jifoubkc6p75rg/original.jpg",
+      "description": "Texnologiyada ekranda o'ynaladigan rang spektorining diapozonini kengaytiradi, shunda siz hatto eng qorong'u sahnalarda ham tasvirning eng kichik tafsilotlarini ko'rasiz. Erkandagi tasvirni haqiqatdan ajiratib bo'lmaydigan qilib, sevimli tarkibingizni tabiiy rang bilan tomosha qiling. Yuqori sifatli rangli tasvirni ko'rishning yangi hissiotlarini boshdan kechiring.",
+      "categoryId": "10",
+      "reviews": [
+        {
+          "id": "1",
+          "user": "Muhayyo",
+          "review": "televizor yoqdi ekran tiniqligi ovoz ham ajoyib 💯"
+        },
+        {
+          "id": "2",
+          "user": "Kamila",
+          "review": "Буйыртпамды алдым. Телевизор жуда зор ислеп тур, жумысларынызга аумет, шаршаман."
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Erkaklar qo'l soati Tevise 9005, mexanik",
+      "price": 299000,
+      "image": "https://images.uzum.uz/ckkll64vutv26iiag3sg/original.jpg",
+      "description": "To'g'ri soat voqealar yo'nalishini belgilashi va muvaffaqiyatli vaziyatlarni keltirib chiqarishini hamma uzoq vaqtdan beri biladi. Sadoqat, aniqlik, uslub hissi, barqarorlik va xarakter - bu erkaklarning fazilatlari va aqlli, to'g'ri erkaklar sovg'asi falsafasi",
+      "categoryId": "5",
+      "reviews": [
+        {
+          "id": "1",
+          "user": "Baxtiyor",
+          "review": "TEVISE T9005A soati judayam zo'r ekan. Boshida rosa ikkilandim qaysi modellini olishni bilmay. Sotib olgan soatim judayam ko'rinishi chiroyli, ishlashi yaxshi, baquvvat soat ekan. Sovg'a uchunam juda zo'r tayyor karopka paketchalari bilan. Xammelaga katta raxmat ishlarilada omad."
+        },
+        {
+          "id": "2",
+          "user": "Umidjon",
+          "review": "Kottakon rahmat mahsulotni ovoldik 1 kunga ham qolmasdan yetib keldi✊soat juda zoʻr ekan ishlashlari a'lo darajada ayniqsa sovgʻa qutisi juda ham chiroyli ekan manga juda yoqdi🤩 tavsiya beraman puliga arziydi👍 admin ishlarizga omad charchamen yana boshqa yangiliklar kutib qolamiz😊"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Erkaklar kurtkasi Calvin Klein J30J317540 BEH",
+      "price": 3879000,
+      "image": "https://images.uzum.uz/cdmb0cov1htd23ahu4ug/original.jpg",
+      "description": "Calvin Klein Inc. — 1968 yilda Nyu-Yorkda moda dizayneri Kelvin Klein va uning bolalikdagi do'sti Barri Shvarts tomonidan tashkil etilgan Amerika moda uyi. Jinslar, ichki kiyimlar, mavsumiy kurtkalar, Uniseks kiyimlar va aksessuarlar ishlab chiqaradi.Calvin Klein bahor kurtka , yuqori sifatli eko-teridan tikilgan, har bir erkakning garderobida, ayniqsa bahor va kuzda ajralmas tashqi kiyimdir. Erkaklar uchun mavsumiy qisqa kurtka kuz-bahor mavsumi uchun juda yaxshi. Kurtka erkaklar uchun shamolsiz, mosligi yaxshilangan. Yumshoq sun'iy teri deformatsiyalanmaydi va bir yildan ortiq davom etadi. Katta va kichik mavsumiy moda kurtka, yenglarida zamonaviy qulflar bilan baland bo'yli o'g'il bolalar uchun ham, kalta yigitlar uchun ham mos keladi. Universal monofonik kurtka erkaklar Demi-mavsumi tekis siluetga ega, Demi-mavsumda juda yaxshi. Erkaklar kuz-bahor kurtka engil, ammo shu bilan birga ekologik tufayli suv o'tkazmaydigan. O'rta bo'yli erkaklar uchun juda yaxshi. Erkaklar uchun qora kurtka bor yoqali tokcha, 2 ta yon tirqishli va fermuarli ko'krak cho'ntaklari. Biker uslubidagi erkaklar eko-charm kuzgi kurtka ham avtomobil, ham mototsikl uchun qulaydir. Erkaklar bahorgi kurtka maktab va kollejga borish uchun javob beradi. Toifaga kiritilgan: uzun bo'yli, katta o'lchamdagi erkaklar uchun kundalik kiyim. Erkaklar kuzgi kurtka sizning garderobingizdagi dizaynerning yorqin qismidir.",
+      "categoryId": "4",
+      "reviews": []
+    },
+    {
+      "id": "19",
+      "title": "Musiqali va raqsga tushuvchi quvnoq kaktus oyinchogi",
+      "price": 60000,
+      "image": "https://images.uzum.uz/cn5jb1rifoubkc6rmu00/original.jpg",
+      "description": "2021 yil tendentsiyasi, raqsga tushayotgan kaktus - eng mashhur Tik Tok o'yinchoq! U eng mashhur xorijiy xitlarning 120 ta qo'shig'ini biladi, ritmga raqsga tushadi, takrorlaydi, tovushlar va qo'shiqlarni yozadi, shuningdek, yorqin rangli chiroqlar bilan porlaydi! Interaktiv o'yinchoq batareyalarni talab qilmaydi, ichida zaryadlovchi kabeli o'rnatilgan batareya mavjud. To'liq zaryadlangan batareya o'yinchoqning uzluksiz ishlashi uchun bir soat davom etadi. ",
+      "categoryId": "8",
+      "reviews": [
+        {
+          "id": "1",
+          "user": "Ozoda",
+          "review": "Idealniy judayam zor rahmat kottakon har tomonlama quley sifat narx rahmat"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Apple MacBook Pro 13 M2",
+      "price": 19900000,
+      "image": "https://hiraoka.com.pe/media/mageplaza/blog/post/m/a/macbook_air_vs._macbook_pro-_cuales_son_sus_diferencias.jpg",
+      "description": "Applening MacBook Air noutbuklari har doim o'zining eng yuqori sifati bilan mashhur bo'lgan, ammo bu yerda katta o'zgarishlar kamdan-kam uchrashi mumkin. Biroq, Apple M1 protsessorining chiqarilishi bilan hamma narsa o'zgacha tus oldi. Shunday qilib, Applening yangi MacBook Air M1 (2020) ultrabukining kuchi keyingi bosqichga ko'tarildi.",
+      "categoryId": "2",
+      "reviews": [
+        {
+          "id": "1",
+          "user": "Sergey Durov",
+          "review": "Pulingiz uchun eng yaxshi noutbuk"
+        },
+        {
+          "id": "2",
+          "user": "Anna",
+          "review": "Noutbuk kulrang rangda va yupqa korpusda, qopqog'ida o'rta o'lchamdagi olma belgisi bor, u ustida ishlash, film tomosha qilish va hatto o'yin o'ynash uchun qulay, ayniqsa buning uchun barcha ma'lumotlarga ega. . U uzoq vaqt oflayn rejimda ishlaydi, xato emas, operativ xotira sakkiz gigabaytni tashkil qiladi va o'rnatilgan xotira 256 Gb, aslida men va mening hujjatlarim va multimedia fayllarim uchun bu etarli. Protsessor original Makovskiy bo'lib, 8 yadroli, u nosozliklarsiz ishlaydi va siz bilan ryukzak yoki hatto xarid qilish sumkasida olib yurish qulay, korpus bardoshli va menimcha, plastik emas, komponentlar uchun barcha ulagichlar mavjud va Men bundan maksimal darajada mamnunman. Ikki kun ichida toza qadoqda yetkazib beriladi."
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Acer Aspire 3, Core I3-N305",
+      "price": 4390000,
+      "image": "https://mercado.ripleylabs.com/wp-content/uploads/2023/08/A314-36P_02.jpg",
+      "description": "Acer Aspire 3 A315-510P-3652 noutbuki inglizcha klaviatura bilan jihozlangan. Displey diagonali 15,6 dyuym. Quyosh nurlaridan himoya qiluvchi mot qoplamali ekran 1920x1080 piksel o'lchamiga ega. SSD drayveri 256 GB gacha ma'lumotni saqlaydi. DDR4 RAM 4 GB sig'imga ega. Displey tepasida veb-kamera joylashgan. Bluetooth 5.0 hujjatlar, foto va video fayllarni simsiz uzatish imkonini beradi, Wi-Fi va RJ-45 ulagichi - mos ravishda router yoki kabel orqali internetga ulanish. Model 6 yadroli Intel Core i3-1215U protsessori bilan jihozlangan.",
+      "categoryId": "2",
+      "reviews": [
+        {
+          "id": "1",
+          "user": "Ilya",
+          "review": "Narxlar oralig'ida u ish va o'qish uchun noutbuklar toifasida, albatta, eng yaxshi 3 talikka kiradi. Bu 'chop etish, YouTube-ni tomosha qilish' uchun mashina ekanligini tushunishingiz kerak, unga hech qanday super vazifalarni berish shart emas."
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "title": "Masofadan boshqarish pultidagi o'yinchoq avtomobil ekskavatori",
+      "price": 99000,
+      "image": "https://images.uzum.uz/cjpin9kvutv2h2ta0efg/original.jpg",
+      "description": "Metall chelakli RC o'yinchoq ekskavatori - bu energiya va qiziqarlilikning timsolidir! Farzandingizga ushbu qiziqarli o'yin ekskavatori bilan unutilmas quvonch va sarguzashtlarni bering. U oldinga va orqaga harakatlana oladi, korpusni aylantira oladi va eng hayajonlisi uning metall chelak yordamida yukni ko'tarish va bo'shatishdir. Kichkintoyingiz o'z qurilish maydonchalarini yaratishda va turli narsalarni tashishda juda xursand bo'ladi. Ijobiy his-tuyg'ular bilan to'ldiring, bolangizning tasavvurini ilhomlantiring va unga ushbu hayajonli o'yinchoq traktor bilan haqiqiy qurilish ustasi bo'lishiga imkon bering!",
+      "categoryId": "8",
+      "reviews": [
+        {
+          "id": "1",
+          "user": "Abdumalik",
+          "review": "Ajoyib pultli mashina, yuqori sifatli, zavoddan ekanligi aniq. Biz uni bolaga sovg'a sifatida sotib oldik va to'g'ri tanlov qildik! Yaxshi qadoqlangan, tavsiya qilaman!"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "HP 250 G9. Core I3-1215U",
+      "price": 5870000,
+      "image": "https://www.notebookcheck.net/fileadmin/_processed_/8/9/csm_IMG_1382_aeb753831c.jpg",
+      "description": "HP 250 G9 Affordable Business Notebook 15,6 dyuymli katta displeyga ega nozik va engil dizaynda kerakli quvvat va unumdorlikni taqdim etadi. Chiroyli va engil, HP 250 noutbuki yupqa va engil dizayni hamda katta ekranning tanaga nisbati bilan mobil ish uslubiga mos keladi. Ish uchun ishlab chiqilgan, oynashga tayyor. Kuchli Intel protsessor, tezkor xotira va saqlash bilan ishlarni bajaring",
+      "categoryId": "2",
+      "reviews": [
+        {
+          "id": "1",
+          "user": "Kenaye",
+          "review": "Men qanday so'zlarni tanlashni ham bilmayman ... bu Polshada kulrang import mahsuloti !!! CHARLES! Polsha tili, birinchi ishga tushirishda rus tilini tanlash imkoniyatisiz. Ha, shubhasiz, uni keyinroq sozlamalarda o'zgartirishingiz mumkin, ammo bu tizimni ruscha qilmaydi. Xizmat xabarlari va sozlamalar sahifalarining yarmi polyak tilida bo'ladi. Ushbu mahsulotni sotib olayotganda, siz tayyor bo'lishingiz kerak - yoki polyak tiliga ko'nikish va uni o'zlashtirish yoki tizimni qayta o'rnatgan holda daf bilan raqsga tushish."
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Jeyms Klir: Atom odatlar",
+      "price": 65000,
+      "image": "https://assets.asaxiy.uz/product/items/desktop/6097870216ddfc90f71880b1082c42912023080116353962082BFoT6DM8hD.jpg.webp",
+      "description": "New York Timesning birinchi raqamli bestselleri. Dunyo bo'ylab 2 yilda 5 milliondan ortiq nusxada sotilgan! Ushbu kitob sizga har kuni oz-ozdan yaxshilanib borishning sinalgan dasturini taklif qiladi. Odatlarni shakllantirish boyicha dunyoning yetakchi ekspertlaridan bori Jeyms Klir yaxshi odatlarni shakllantirish, yomonlaridan xalos bolish hamda katta natijalarga olib boruvchi kichik odatlarni egallashni orgatuvchi amaliy strategiyalarni ochib beradi.",
+      "categoryId": "3",
+      "reviews": [
+        {
+          "id": "1",
+          "user": "Muhammad Amin Naziraliyev",
+          "review": "Kitobdan iqtibos keltirish yoki xulosa yozishdan oldin kitobning mavzusi haqida yozishni yaxshi ko'raman. Ozgina izlanib ko'rsam 'Atom odatlar' kitobi haqida ko'p xulosa va fikrlar berilgan ekan. Ayniqsa iqtiboslar ko'p keltirilib amalda ham qo'llab kelayotgan ekanmiz. Shunchaki ushbu kitobdan ekanligini bilmagan ekanmiz. Kamina xodimingiz kitob o'qishda hamma aytib o'tgan fikrlarga ko'p to'xtalishni xohlamayman. Sababi o'sha fikrlarni ko'p eshitgan yoki amalda allaqachon qo'llayotgan bo'laman. Yuqoridagi kitobda kelgan fikrlarni ko'pini Payg'ambarimiz alayhissalom sunnatlarida ko'rdim. Hadis va uning sharhlari bilan yaxshilab tanishib chiqqan odam buni darrovda his qiladi. Mana birini keltiraman: Kitobda: Bir marta odatni o'tkazib yuborish bu kutilmagan hodisa, ikki marta o'tkazib yuborish …"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "title": "MFP printer Epson L3201, A4, rangli, 3 tasi 1da",
+      "price": 2799000,
+      "image": "https://images.uzum.uz/ck23a2cjvf2qegt3n7kg/original.jpg",
+      "description": "Epson L3201 — bu 3 tasi 1 da (printer, skaner va nusxa koʻchirgich) KFQ (koʻp funksiyali qurilma) ning yangi avlodi boʻlib, siyohlarni toʻldirish uchun frontal idishlarga ega, siyohlar tasodifan toʻkilib ketishidan saqlovchi klapan oʻrnatilgan hamda siyoh toʻldirishning takomillashtirilgan «Key Lock» tizimi mavjud. Siyoh idishlarini toʻldirish jarayoni endi yanada qulayroq — turli rangdagi konteynerlarning siyoh quyiladigan joʻmraklari turlicha boʻlib, qulf˗kalit tamoyiliga muvofiq faqat oʻziga tegishli siyoh quyish teshigiga mos keladi.",
+      "categoryId": "9",
+      "reviews": [
+        {
+          "id": "1",
+          "user": "Durdona",
+          "review": "Rahmat kattakon. Maxsulotni ovoldim. Sifati ishlashi zor ekan"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Kel Nyuport: Diqqat",
+      "price": 75000,
+      "image": "https://assets.asaxiy.uz/product/items/desktop/fa90db78a40bb28c08346e05813bbdc32023081211154164899UjRcxiQ24T.jpg",
+      "description": "Kitobda eng muhim mavzu, keraksiz kichik narsalarga chalgʻimasdan, diqqatni murakkab va muhim vazifalarga jalb qilish haqida yozilgan. Kitobda taʼkidlanishicha zamonaviy dunyoda diqqatini jamlab, bir vazifa ustida ishlay bilgan odamlargina haqiqiy yutuqlarga erisholadi.",
+      "categoryId": "3",
+      "reviews": [
+        {
+          "id": "1",
+          "user": "Otabek Abdusattorov",
+          "review": "Hozirgi zamonaviy dunyoda yashash osonlashgani bilan birga murakkablashib ham bormoqda. Kasb-hunarlar kundan-kunga ko‘paymoqda. Bunda 10 yil oldin yetti uxlab tushimizga kirmagan kasblar hayotimizga kirib keldi. Bu jadal rivojlanib borayotgan zamonda yashab qolish, rivojlanish qiyinlashib bormoqda.Ayni zamonamizda insonlarning turmush tarzi ham yengillashdi, ba’zi ishlar yuqori tezlikda bajariladigan bo‘ldi. Lekin, ko‘pchilik insonlar sayoz ish va yumushlarga chalg‘ib, o‘zlarining hayotlarida muhim o‘zgarishlarga sabab bo‘ladigan ishlarini unutib qo‘ymoqdalar. Shu va shunga o‘xshash muammolarga o‘zining falsafiy qarashlari, tajribadan o‘tgan bilimlari bilan yechim bergan Jorjtaun universiteti professori Kel Nyuportning “Diqqat” kitobini o‘qishni tavsiya qilaman."
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Simsiz quloqchunlar + sovg'a g'ilof, sensorli, avlodlar, simsiz zaryadlovchi",
+      "price": 990000,
+      "image": "https://images.uzum.uz/chbkhrp25ku4lq0ogvd0/original.jpg",
+      "description": "Yuqori sifatga ega bo'lgan bu mahsulot bugungi kunda eng ommabop quloqchinlardan biri hisoblanadi. Bu quloqchin simsiz bo'lgani sababli ham bugungi kunda foydalanish uchun juda qulay hisoblanadi. Shu sababli ham foydalanuvchilar orasida tezda mashhur bo'la oldi.Shuningdek quloqchinda ovoz yutish, sensor, avtopauza rejimlari ham bor.",
+      "categoryId": "6",
+      "reviews": [
+        {
+          "id": "1",
+          "user": "Mamadiyorov",
+          "review": "AirPods juda yaxshi avval xam bitta olgan edim. iPhone 14 pro va pro max larda o’yin vaqtida ovozi orqada qolib ketmaydi bir hil keladi va mikrafoni ham yaxshi ishledi hammaga maslahat beraman."
+        },
+        {
+          "id": "2",
+          "user": "Akbarali",
+          "review": "Assalomu aleykum yaxshikan raxmat😘 Xamaga tavsiye qilama olila. Sovg'asiyam borekan."
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Leonid Chigrin: Yapon zobiti",
+      "price": 50000,
+      "image": "https://assets.asaxiy.uz/product/items/desktop/3240457561e8153779adc521e1e7ff6c20230504161141745118rtzw5LJgs.jpg.webp",
+      "description": "Yapon zobiti rus-yapon urushiga oʻziga xos nuqtai nazarni taqdim etadigan yaxshi yozilgan va qiziqarli roman. Yaponiya tarixi, Koreya tarixi yoki harbiy fantastika bilan qiziqqan, badiiy kitoblarni sevadigan, syujeti sabab oʻziga bogʻlab qoʻyadigan kitobni oʻqishni istagan kitobxonlarga tavsiya etiladi.",
+      "categoryId": "3",
+      "reviews": [
+        {
+          "id": "1",
+          "user": "Firdavs Qayumov",
+          "review": "Tavsiya qilaman. Matonatli inson haqida"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Erkaklar qo'l soati, mexanik harakatli, suv o'tqazmaydigan, klassika stilda, TEVISE 795A",
+      "price": 399000,
+      "image": "https://images.uzum.uz/cjppe04vutv2h2ta2bk0/original.jpg",
+      "description": "Tevise 795A, erkaklar tomonidan erkaklar uchun ishlab chiqilgan mexanik soatlar bilan tanishtiramiz. Ushbu qo'l soatining barcha qismlari professional soatsozlar tomonidan tayyorlangan va sizning qo'lingizga tushishdan oldin har bir tafsilot tekshirilgan. Mexanik soat har bir erkakning garderobida bo'lishi kerak. Soatlar kundalik hayotingizda va ishingizda uslub va hashamatni taqdim etadi. Zanglamaydigan po'latdan yasalgan kamar yoki sun'iy charm tasma tanlaysizmi, bu soatni har qanday kiyim bilan taqish mumkin.",
+      "categoryId": "5",
+      "reviews": [
+        {
+          "id": "1",
+          "user": "Doniyorbek",
+          "review": "Soat vashe ideal ekan upakovka vashe zo’r soatni ochish vashe boshqacha ashushenya berdi 😎😅"
+        },
+        {
+          "id": "2",
+          "user": "Moʻminjon",
+          "review": "Judayam baquvvat ishlangan klassik soat reminlari mustahkam manga yoqdi tafsiya qilaman"
+        }
+      ]
+    }
+  ]
+}
